@@ -1,0 +1,17 @@
+# homelab-dokumentation# Homelab-Dokumentation
+
+Ich mache seit August 2026 eine Umschulung zum Fachinformatiker für
+Systemintegration (IHK) bei der WBS. Hier dokumentiere ich meine
+praktischen Übungen.
+
+## Meine Umgebung
+- Hypervisor: VirtualBox / VMware / Hyper-V
+- Host: Desktop-PC mit 32 GB RAM
+
+## Labs
+| Nr. | Thema | Status |
+|-----|-------|--------|
+| 01 | Windows- und Ubuntu-VMs erstellen | in Arbeit |
+| 02 | Domain Controller (Active Directory) | geplant |
+| 03 | Linux-Server mit SSH und Webserver | geplant |
+| 04 | Firewall mit pfSense/OPNsense | geplant |
