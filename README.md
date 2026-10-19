@@ -10,8 +10,8 @@ Hier dokumentiere ich meine praktischen Übungen in **Azure** und **Linux**. Ich
 
 | Nr. | Übung | Thema | Status |
 |---|---|---|---|
-| 01 | Azure-Konto und Kostenkontrolle | Konto anlegen, Budget-Warnung einrichten, Ressourcengruppe mit Tags | geplant |
-| 02 | Erste virtuelle Maschine | VM erstellen, per SSH/RDP verbinden, wieder löschen | geplant |
+| 01 | Azure-Konto und Kostenkontrolle | Konto anlegen, Budget-Warnung einrichten, Ressourcengruppe mit Tags | in Arbeit |
+| 02 | Erste virtuelle Maschine | VM erstellen, per SSH/RDP verbinden, wieder löschen | erledigt |
 | 03 | Virtuelles Netzwerk | VNet, Subnetze, Netzwerksicherheitsgruppen (NSG) | geplant |
 | 04 | Storage und Zugriffsrechte | Storage-Account, Redundanz, Rollen (RBAC) | geplant |
 | 05 | Identität | Microsoft Entra ID, Benutzer und Gruppen, MFA | geplant |
