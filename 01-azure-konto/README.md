@@ -22,11 +22,7 @@ Ein eigenes Azure-Gratiskonto anlegen, es absichern und so einrichten, dass kein
 
 ## Ergebnis
 
-*[Screenshot hier einfügen: Budget mit Warnstufen]*
-
-*[Screenshot hier einfügen: Ressourcengruppe mit Tags]*wie
-
-Vor dem Hochladen unkenntlich machen: Subscription-ID, E-Mail-Adresse, Kartendaten und Tenant-ID.
+*!(Budget.png.png)*
 
 ## Probleme und Lösungen
 
