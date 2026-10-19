@@ -1,6 +1,6 @@
 # Homelab-Dokumentation
 
-Hier dokumentiere ich meine praktischen Übungen in **Azure** und **Linux**. Ich mache eine Umschulung zum **Fachinformatiker für Systemintegration (IHK)** bei der WBS (Abschluss August 2028).
+Hier dokumentiere ich meine praktischen Übungen in **Azure** und **Linux**. Ich mache eine Umschulung zum **Fachinformatiker für Systemintegration (IHK)** (Abschluss August 2028).
 
 **Ziel:** Cloud-Administration mit Azure lernen und mich danach in Richtung **Cloud Security** spezialisieren. Dieses Repository ist mein Lerntagebuch und mein Nachweis, dass ich das Gelernte praktisch anwenden kann.
 
