@@ -80,16 +80,6 @@ Zwei bis drei Sätze, was ich mitnehme.
 
 ## Sicherheit und Datenschutz
 
-In dieses Repository gehören **keine**:
-
-- Passwörter, Schlüssel oder Zugangsdaten
-- Subscription-IDs, Tenant-IDs oder öffentliche IP-Adressen
-- Kundendaten oder vertrauliche Firmeninformationen
-
-Screenshots werden vor dem Hochladen unkenntlich gemacht. Sobald Terraform dazukommt, werden Dateien wie `*.tfstate` und `*.tfvars` über eine `.gitignore` ausgeschlossen.
-
-## Über mich
-
 Umschüler zum Fachinformatiker für Systemintegration in der Region Trier, mit Interesse an Cloud und Cloud Security.
 
-- LinkedIn: *[Link hier ergänzen]*
+
