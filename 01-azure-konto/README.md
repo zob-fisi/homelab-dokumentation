@@ -22,7 +22,7 @@ Ein eigenes Azure-Gratiskonto anlegen, es absichern und so einrichten, dass kein
 
 ## Ergebnis
 
-![Budget mit Warnstufen](budget.png)
+![Budget mit Warnstufen](Budget.png)
 
 ## Probleme und Lösungen
 
