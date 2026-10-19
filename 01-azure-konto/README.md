@@ -22,7 +22,7 @@ Ein eigenes Azure-Gratiskonto anlegen, es absichern und so einrichten, dass kein
 
 ## Ergebnis
 
-*!(Budget.png.png)*
+!(Budget.png)
 
 ## Probleme und Lösungen
 
