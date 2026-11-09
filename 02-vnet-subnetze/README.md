@@ -12,8 +12,8 @@
 6. Optionen unter "Security" (Bastion, Firewall, DDoS) bewusst deaktiviert, weil sie zusätzliche Kosten verursachen können.
 
 ## Screenshots
-![VNet Übersicht](screenshots/vnet-uebersicht.png)
-![Subnetze](screenshots/subnetze.png)
+![VNet Übersicht](vnet-uebersicht.png)
+![Subnetze](subnetze.png)
 
 *(Subscription-ID und andere Kennungen sind geschwärzt.)*
 
